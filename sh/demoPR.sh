@@ -8,7 +8,7 @@ echo "$(date '+%F %H:%M:%S') --- $1" >> $LOG_FILE
 }
 
 # Настройки
-GITHUB_TOKEN="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"
+GITHUB_TOKEN="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"
 REPO="CapitanWL/ExampleRepoFor3LabISRPO"
 BASE_BRANCH="master"
 FEATURE_BRANCH="advanced-feature"
