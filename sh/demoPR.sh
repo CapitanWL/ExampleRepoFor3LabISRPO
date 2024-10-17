@@ -11,7 +11,7 @@ echo "$(date '+%F %H:%M:%S') --- $1" >> $LOG_FILE
 GITHUB_TOKEN="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"
 REPO="CapitanWL/ExampleRepoFor3LabISRPO"
 BASE_BRANCH="master"
-FEATURE_BRANCH="test"
+FEATURE_BRANCH="advanced-feature"
 PR_TITLE="Pull Request: Объединение $FEATURE_BRANCH в $BASE_BRANCH"
 PR_BODY="Pull Request для объединения ветки $FEATURE_BRANCH в $BASE_BRANCH."
 
